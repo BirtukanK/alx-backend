@@ -1,4 +1,3 @@
-
 #!/usr/bin/env python3
 """
 A Basic flask application
@@ -98,4 +97,3 @@ def index() -> str:
 
 if __name__ == '__main__':
     app.run()
-
